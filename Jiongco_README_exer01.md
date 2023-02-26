@@ -4,7 +4,7 @@
 
 ### Interpolating the elevations into a higher resolution digital elevation matrix M given a lower resolution digital elevation matrix N
 
-To run the program:
+**Installation and running instructions:**
 
 1. The user must first download the file named "exer01.c" included in the submission folder.
 2. The user must navigate to the diretory containing the said file.
