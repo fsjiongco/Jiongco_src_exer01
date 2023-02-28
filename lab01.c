@@ -89,13 +89,13 @@ int main()
 		}
 	}
 
-	printf("\nBefore interpolating\n");
-	for (int i = 0; i < size; i++){
-		for (int j = 0; j < size; j++){
-			printf("%d ", (int) M[i][j]);
-		}
-		printf("\n");
-	}
+	// printf("\nBefore interpolating\n");
+	// for (int i = 0; i < size; i++){
+	// 	for (int j = 0; j < size; j++){
+	// 		printf("%d ", (int) M[i][j]);
+	// 	}
+	// 	printf("\n");
+	// }
      
     time_before = clock();
 
